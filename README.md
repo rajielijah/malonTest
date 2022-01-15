@@ -8,12 +8,12 @@ The app sends requests and receives responses from the themoviedb API.
 
 **Dependencies/Libraries Used**
 
-Sizer: https://pub.dev/packages/sizer
-Flutter Spinkit: https://pub.dev/packages/flutter_spinkit
-Cached Network Image: https://pub.dev/packages/cached_network_image
-Fluttertoast: https://pub.dev/packages/fluttertoast
-Http: https://pub.dev/packages/http
-Path Provider: https://pub.dev/packages/path_provider
+- Sizer: https://pub.dev/packages/sizer
+- Flutter Spinkit: https://pub.dev/packages/flutter_spinkit
+- Cached Network Image: https://pub.dev/packages/cached_network_image
+- Fluttertoast: https://pub.dev/packages/fluttertoast
+- Http: https://pub.dev/packages/http
+- Path Provider: https://pub.dev/packages/path_provider
 
 
 # **Getting Started**
