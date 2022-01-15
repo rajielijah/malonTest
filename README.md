@@ -1,12 +1,12 @@
 **# malontest**
 
-**Description**
+# **Description**
 
 This project is a movie application that display list of latest, popular, upcoming and Top Rated movies. User can click on a particular movies to check the details of the movies and get the chance to add movies to their favourites. There is a search button on the homepage where user can search any particular movies they are looking for.
 
 The app sends requests and receives responses from the themoviedb API.
 
-**Dependencies/Libraries Used**
+# **Dependencies/Libraries Used**
 
 - Sizer: https://pub.dev/packages/sizer
 - Flutter Spinkit: https://pub.dev/packages/flutter_spinkit
