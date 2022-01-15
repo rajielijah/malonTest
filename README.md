@@ -18,3 +18,14 @@ The app sends requests and receives responses from the themoviedb API.
 
 # **Getting Started**
 
+For help getting started with Flutter, view online documentation.
+
+1. Set Flutter(Flutter 2.2.1)
+2. Clone the repo 
+ ```
+ $ git clone https://github.com/rajielijah/maloneTest.git
+ ```
+ 3. Run the app
+ ```
+ flutter run
+```
